@@ -7,4 +7,3 @@
 
    > _L'artiste en moi voit Visual Studio Code comme une toile blanche sur laquelle je peux exprimer ma créativité et ma personnalité._
 
-      
