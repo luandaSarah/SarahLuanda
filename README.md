@@ -7,3 +7,12 @@
 
    > _L'artiste en moi voit Visual Studio Code comme une toile blanche sur laquelle je peux exprimer ma créativité et ma personnalité._
 
+<script src="https://cdn.jsdelivr.net/npm/gradient-badge"></script>
+<script>
+    var svgString = gradientBadge({
+       subject: 'Checkout', // <text>
+    status: 'LinkedIN', // <text>
+    style: '', // 'flat' or undefined, optional
+    gradient: ['#7e47ff', '#11cbfa'], // array of colors (Hexadecimal or name)
+    });
+</script>
